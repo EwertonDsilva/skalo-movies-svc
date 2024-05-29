@@ -24,7 +24,8 @@ public class MovieRequest {
 		return year;
 	}
 	public void setYear(int year) {
-		this.year = year;
+		this.year = year; 
+		System.out.println("Olá");
 	}
 
     
